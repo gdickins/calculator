@@ -1,0 +1,41 @@
+body {
+  background: red;
+  font-family: helvetica;
+}
+.wrapper {
+  background: white;
+  width: 50%;
+  height: 450px;
+  margin: 0 auto;
+  border-radius: 25px;
+}
+.inputs {
+  padding-top: 10%;
+  width: 90%;
+  margin: 0 auto;
+  input {
+    width: 100%;
+  }
+}
+.buttons {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 10%;
+  button{
+    background: pink;
+    width: 25%;
+    float: left;
+  }
+  button:hover {
+    background: red;
+  }
+}
+span {
+  font-size: 56px;
+  color: red;
+}
+p {
+  padding-top: 20%;
+  width: 60%;
+  margin: 0 auto;
+}
